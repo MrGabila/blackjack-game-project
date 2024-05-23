@@ -10,12 +10,13 @@ A simple game to simulate the classic game of Blackjack. This project is a compl
 
 ## Introduction
 
-The Game is a Java-based application that allows users to play the Blackjack card game against a computer(dealer). The Game was developed as part of a Java Course at UMD.
+The Game is a Java-based application that allows users to play the Blackjack card game against a computer(dealer). The project was developed as part of a Java Course at UMD.
 
-Here are some example images
-![screenshot1] (images/blackjack_images_1)
+Here are some example images:
 
-![screenshot2] (images/blackjack_images_1)
+![screenshot1](images/screenshot_1)
+
+![screenshot2](images/screenshot_2)
 
 ## Installation
 
