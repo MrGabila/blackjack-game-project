@@ -14,9 +14,9 @@ The Game is a Java-based application that allows users to play the Blackjack car
 
 Here are some example images:
 
-![screenshot1](images/screenshot_1)
+![screenshot 1](images/screenshot_1.png)
 
-![screenshot2](images/screenshot_2)
+![screenshot 2](images/screenshot_2.png)
 
 ## Installation
 
